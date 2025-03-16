@@ -109,6 +109,7 @@ rpds-py==0.23.1
 scikit-image==0.24.0
 scikit-learn==1.6.1
 scipy==1.13.1
+seaborn==0.13.2
 send2trash==1.8.3
 setuptools==76.0.0
 shap==0.47.0
