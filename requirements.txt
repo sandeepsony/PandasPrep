@@ -26,6 +26,7 @@ executing==2.2.0
 fastjsonschema==2.21.1
 fonttools==4.56.0
 fqdn==1.5.1
+frozendict==2.4.6
 h11==0.14.0
 h5py==3.13.0
 httpcore==1.0.7
@@ -72,6 +73,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.1.2
 ml-dtypes==0.5.1
+multitasking==0.0.11
 namex==0.0.8
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -90,6 +92,7 @@ pandas==2.2.3
 pandocfilters==1.5.1
 parso==0.8.4
 patsy==1.0.1
+peewee==3.17.9
 pexpect==4.9.0
 pillow==11.1.0
 platformdirs==4.3.6
@@ -144,4 +147,5 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 xgboost==2.1.4
+yfinance==0.2.55
 zipp==3.21.0
